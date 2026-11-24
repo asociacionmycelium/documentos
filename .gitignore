@@ -1,0 +1,18 @@
+# Nunca se publican documentos firmados ni el acta fundacional (datos personales).
+*.pdf
+*.p7s
+*.xsig
+*.docx
+*.doc
+*.odt
+*.xlsx
+*.xls
+*.ods
+
+# Ajustes locales de Claude Code
+CLAUDE.local.md
+.claude/settings.local.json
+
+# Variables de entorno y secretos
+.env
+.env.*

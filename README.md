@@ -6,6 +6,7 @@ Textos públicos de la Asociación Mycelium. El historial de este repositorio mu
 |---|---|---|
 | [`manifiesto.md`](manifiesto.md) | Por qué existimos, para quién trabajamos y cómo | Vigente |
 | [`estatutos.md`](estatutos.md) | Estatutos aprobados en el acta fundacional del 9/11/2026 | Inscripción en el Registro Nacional de Asociaciones en trámite |
+| [`junta/`](junta/) | Asuntos pendientes y órdenes del día de la Junta Directiva | En marcha |
 
 ## Cómo se mantienen
 - Cada modificación de los Estatutos va en un commit propio que indica el motivo y el acuerdo de la Asamblea que la aprueba (art. 47).

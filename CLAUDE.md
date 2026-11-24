@@ -8,6 +8,7 @@ Repositorio **público** con el manifiesto y los estatutos (CC BY-SA 4.0). La pl
 - El domicilio social solo aparece en el art. 7 de `estatutos.md`.
 - Cada cambio de los Estatutos va en un commit propio con el motivo y el acuerdo de la Asamblea (art. 47).
 - `manifiesto.md`: tono cercano, nada comercial, sin justificarse.
+- `junta/`: lo que surja para la Junta se apunta en `junta/pendientes.md` con su origen y el artículo de los Estatutos que lo ampara. Solo cargos, nunca nombres. Cita artículos solo después de comprobarlos en `estatutos.md`.
 
 ## Antes de cada push (obligatorio)
 1. Invoca el subagente `revisor-publicacion` con el rango que se va a subir (`git log origin/main..HEAD`; en el primer push, todo el árbol). Si devuelve BLOQUEAR, corrige antes de seguir.

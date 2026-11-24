@@ -12,6 +12,7 @@
 5. Ratificación de las licencias: CC BY-SA 4.0 para los textos institucionales y AGPL-3.0-or-later para el software (P-003).
 6. Ratificación, en su caso, de decisiones del punto 2 (P-005).
 7. Qué se publica de cada reunión de la Junta y en qué plazo (P-006).
+8. Consentimiento de las personas socias para publicar su condición de socio, y qué se publica (P-009).
 
 ## Varios
-8. Ruegos y preguntas.
+9. Ruegos y preguntas.

@@ -5,14 +5,15 @@
 ## Para dar cuenta
 1. Publicación del manifiesto y de los Estatutos en el repositorio público `documentos` (P-004).
 2. Registro de decisiones de diseño de la plataforma de transparencia, D1–D24 (P-005).
+3. Uso de asistentes de IA por cargo de la Junta Directiva y sus reglas de datos (P-010).
 
 ## Para acuerdo
-3. Ratificación de la creación de la organización `asociacionmycelium` en GitHub y de la aceptación de sus condiciones en nombre de la Asociación, e informe de su configuración de seguridad (P-001).
-4. Designación de una segunda persona owner de la organización en GitHub (P-002).
-5. Ratificación de las licencias: CC BY-SA 4.0 para los textos institucionales y AGPL-3.0-or-later para el software (P-003).
-6. Ratificación, en su caso, de decisiones del punto 2 (P-005).
-7. Qué se publica de cada reunión de la Junta y en qué plazo (P-006).
-8. Consentimiento de las personas socias para publicar su condición de socio, y qué se publica (P-009).
+4. Ratificación de la creación de la organización `asociacionmycelium` en GitHub y de la aceptación de sus condiciones en nombre de la Asociación, e informe de su configuración de seguridad (P-001).
+5. Designación de una segunda persona owner de la organización en GitHub (P-002).
+6. Ratificación de las licencias: CC BY-SA 4.0 para los textos institucionales y AGPL-3.0-or-later para el software (P-003).
+7. Ratificación, en su caso, de decisiones del punto 2 (P-005).
+8. Qué se publica de cada reunión de la Junta y en qué plazo (P-006).
+9. Consentimiento de las personas socias para publicar su condición de socio, y qué se publica (P-009).
 
 ## Varios
-9. Ruegos y preguntas.
+10. Ruegos y preguntas.

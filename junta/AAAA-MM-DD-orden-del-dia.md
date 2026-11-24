@@ -4,7 +4,7 @@
 
 ## Para dar cuenta
 1. Publicación del manifiesto y de los Estatutos en el repositorio público `documentos` (P-004).
-2. Registro de decisiones de diseño de la plataforma de transparencia, D1–D21 (P-005).
+2. Registro de decisiones de diseño de la plataforma de transparencia, D1–D24 (P-005).
 
 ## Para acuerdo
 3. Ratificación de la creación de la organización `asociacionmycelium` en GitHub y de la aceptación de sus condiciones en nombre de la Asociación, e informe de su configuración de seguridad (P-001).

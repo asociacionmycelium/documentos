@@ -4,7 +4,7 @@ Estados: `pendiente` → `en orden del día` → `resuelto` (con referencia al a
 
 | Id | Asunto | Tipo | Origen | Estado |
 |---|---|---|---|---|
-| P-001 | Ratificar la creación de la organización `asociacionmycelium` en GitHub y la aceptación de sus condiciones de servicio en nombre de la Asociación. Informar de su configuración de seguridad: 2FA obligatoria, commits firmados, ramas protegidas, revisión automática antes de publicar | Acuerdo (art. 22.7) | 24/11/2026, creación de los repositorios públicos | en orden del día |
+| P-001 | Ratificar la creación de la organización `asociacionmycelium` en GitHub y la aceptación de sus condiciones de servicio en nombre de la Asociación. Informar de su configuración de seguridad: 2FA obligatoria, commits firmados, ramas protegidas, revisión automática antes de publicar. Desde el 27/11/2026 la organización admite paquetes públicos, para la imagen de la página de transparencia (D34 de la plataforma); el resto sigue cerrado: solo se usan acciones de GitHub | Acuerdo (art. 22.7) | 24/11/2026, creación de los repositorios públicos | en orden del día |
 | P-002 | Designar una segunda persona owner de la organización en GitHub, para que no dependa de una sola cuenta | Acuerdo (art. 22.1) | 24/11/2026 | en orden del día |
 | P-003 | Ratificar las licencias: CC BY-SA 4.0 para los textos institucionales y AGPL-3.0-or-later para el software | Acuerdo (art. 6.1) | 24/11/2026, decisión D18 de la plataforma | en orden del día |
 | P-004 | Publicación del manifiesto y de los Estatutos en este repositorio. En el manifiesto se ha quitado la frase "Borrador para compartir entre las personas fundadoras" | Dar cuenta | 24/11/2026 | en orden del día |
